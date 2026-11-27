@@ -1,5 +1,5 @@
 <div align="center">
 
-  <img src="./profile.svg" alt="Danish Profile Fetch" width="100%" />
+  <img src="./preview_dark_mode.png" alt="Danish Profile Fetch" width="100%" />
 
   <br /><br />
